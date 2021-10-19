@@ -116,7 +116,7 @@ function setColCount(count) {
 $(function() {
     // On event that the add-server-btn is clicked, add the add server popup
     $('#add-server-btn').click(function() {
-        addServerPopup();
+        addServerPopup2();
     });
 
     // Makes the divs sortable with the header class

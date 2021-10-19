@@ -311,7 +311,7 @@ function addServer(popup) {
 
         closePopup();
     } else {
-        alert('URL was not valid.');
+        alert('URL was not valid or no server found.');
     }
 }
 
